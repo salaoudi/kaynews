@@ -12,6 +12,7 @@ struct KaynewsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+				.environmentObject(StorageManager.shared)
         }
     }
 }
