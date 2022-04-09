@@ -10,6 +10,7 @@ Keynews is a space news app, users can see top headlines and latest posts and ad
 **TECH USED:**
 - SwiftUI
 - UserDefaults/Coredata
+- NEWS SPACE API AND GENERIC API CALL 
 
 
 
